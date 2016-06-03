@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/cmcassidy/.bash_it'
+let g:netrw_dirhist_2='/Users/cmcassidy/.kwm'
+let g:netrw_dirhist_3='/Users/cmcassidy'
+let g:netrw_dirhist_4='/Users/cmcassidy/GitHub/dotfiles/.git'
+let g:netrw_dirhist_5='/Users/cmcassidy/GitHub/dotfiles/.git/info'
+let g:netrw_dirhist_6='/Users/cmcassidy/GitHub/dotfiles/.git'
